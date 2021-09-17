@@ -11,6 +11,7 @@
 
 body{
     font-family: 'Barlow Condensed', sans-serif, Arial, Helvetica;
+	overflow-x:hidden;
 }
 
 a{
